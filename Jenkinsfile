@@ -22,7 +22,7 @@ pipeline {
       {
             steps
            {
-                echo 'Deploy App: %date% : %time%'
+                echo 'Deploy App: '
             }
         }
     
