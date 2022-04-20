@@ -7,7 +7,7 @@ pipeline {
       {
             steps
            {
-                echo 'Build App : %date% : %time%'
+                echo 'Build App : '
             }
         }
     
@@ -15,7 +15,7 @@ pipeline {
       {
             steps
            {
-                echo 'Test App : %date% : %time%'
+                echo 'Test App : '
             }
         }
        stage('Deploy') 
