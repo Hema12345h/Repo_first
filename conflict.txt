@@ -1,3 +1,3 @@
 This is conflict example - Repo first
 This is conflict example - Repo second
-
+this is pipe
