@@ -7,7 +7,7 @@ pipeline
       {
             steps
            {
-                echo 'Build App : %date% : %time%'
+                echo 'Build App : '
             }
         }
     
